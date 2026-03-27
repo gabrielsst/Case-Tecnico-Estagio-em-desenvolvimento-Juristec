@@ -24,6 +24,7 @@ A avaliação é composta por **6 questões práticas**, envolvendo:
 ```
 .
 ├── avaliacao_tecnica.md
+├── Questão 1 - Juristec+.pdf
 ├── Questao_2_Juristec.py
 ├── Questao_3_Juristec.py
 ├── Questao_4_Juristec.sql
