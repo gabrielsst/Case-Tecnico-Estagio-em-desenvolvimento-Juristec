@@ -4,6 +4,8 @@ Este repositório contém as respostas desenvolvidas para o **case técnico de e
 
 O objetivo deste projeto é demonstrar habilidades em **programação, análise de dados, banco de dados e resolução de problemas reais**.
 
+📌 Arquivo: `avaliacao_tecnica.md`
+
 ---
 
 ## 🧠 Sobre o Desafio
