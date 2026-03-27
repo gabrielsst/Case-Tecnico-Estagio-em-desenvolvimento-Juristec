@@ -28,8 +28,7 @@ A avaliação é composta por **6 questões práticas**, envolvendo:
 ├── Questao_3_Juristec.py
 ├── Questao_4_Juristec.sql
 ├── Questao_5_Juristec.py
-├── Questao_6_Juristec.py
-└── assets/
+└── Questao_6_Juristec.py
 ```
 
 ---
