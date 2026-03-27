@@ -45,8 +45,7 @@ Resposta descritiva explicando:
 * Estratégias com `requests`, `Playwright` e sessões HTTP
 * Tratamento de bloqueios (erro 403)
 
-📌 Arquivo: `avaliacao_tecnica.md`
-📎 Exemplo de abordagem detalhada disponível em: `Questão 1 - Juristec+.pdf`
+📌 Arquivo: `Questão 1 - Juristec+.pdf`
 
 ---
 
@@ -59,7 +58,6 @@ Implementação de uma classe orientada a objetos com:
 * Função de mudo com restauração do volume anterior
 
 📌 Arquivo: `Questao_2_Juristec.py`
-📎 Código disponível em: 
 
 ---
 
@@ -73,7 +71,6 @@ Processamento de dados "sujos", incluindo:
 * Conversão de valores monetários para numérico
 
 📌 Arquivo: `Questao_3_Juristec.py`
-📎 Código disponível em: 
 
 ---
 
@@ -87,7 +84,6 @@ Consulta SQL que:
 * Exclui clientes sem processos
 
 📌 Arquivo: `Questao_4_Juristec.sql`
-📎 Query disponível em: 
 
 ---
 
@@ -100,7 +96,6 @@ Definição de models utilizando ORM:
 * Mapeamento objeto-relacional
 
 📌 Arquivo: `Questao_5_Juristec.py`
-📎 Código disponível em: 
 
 ---
 
@@ -114,7 +109,6 @@ Implementação de scraping com renderização JavaScript:
 * Retorno estruturado em dicionário
 
 📌 Arquivo: `Questao_6_Juristec.py`
-📎 Código disponível em: 
 
 ---
 
